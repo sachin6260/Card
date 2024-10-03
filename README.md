@@ -1,2 +1,2 @@
 # React + Vite
-Check Live Demmo: https://pegination-card.netlify.app/  
+Check Live Demo: https://pegination-card.netlify.app/  
